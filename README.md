@@ -1,1 +1,3 @@
 # andrechat
+
+npm install
