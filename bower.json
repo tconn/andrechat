@@ -1,0 +1,24 @@
+{
+  "name": "andrechat",
+  "version": "0.0.1",
+  "authors": [
+    "citizen"
+  ],
+  "main": "src/app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}

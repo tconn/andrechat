@@ -1,0 +1,20 @@
+{
+  "name": "andrechat",
+  "version": "0.0.1",
+  "description": "A chat app for dogs",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.11.2",
+    "mqtt": "^1.0.10",
+    "socket.io": "^1.3.4"
+  },
+  "devDependencies": {
+    "bower": "^1.3.12"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "jsxwatch": "jsx --watch src/views buid/js/views"
+  },
+  "author": "citizen",
+  "license": "MIT"
+}
